@@ -1,0 +1,129 @@
+sent1,sent2,similarity,test-level
+Yes,Yes,0.9999999403953552,easy
+"According to my memory, you have never asked me to help you write a sick leave note.","No, you didn't ask me to help you write a sick leave note.",0.8827660083770752,easy
+"Sorry, I don't know. You only told me your TikTok account.","I'm sorry, I don't know. You only told me your TikTok account. I don't have information about your girlfriend's TikTok account.",0.8045035004615784,hard
+"Sorry, I don't know that either. You only told me your TikTok account. Do you need your TikTok account?","Sorry, I don't know. You only told me your TikTok account.",0.924595296382904,hard
+"I know, your dentist's name is Dr. Smith.","Yes, I know, your dentist's name is Dr. Smith.",0.9566169381141663,easy
+You have four items on your shopping list.,"Based on our conversation, you have mentioned four items for your shopping list: apples, bread, milk, and durian. So you currently have four items on your list. If you add anything else or want to check the items at any time, just let me know!",0.7963859438896179,hard
+The last item on your list is durian.,The last item on your list is durian.,1.0000001192092896,hard
+"Yes, your mom likes to eat durian.","Yes, your mom likes to eat durian.",1.0,easy
+The first item on your list is apples.,The first item on your list is apples.,1.0,easy
+"Yes, you asked me to write a love speech for Ilay Yona.","Yes, you asked me to write a love speech before, and it was for Ilay Yona.",0.9760453104972839,hard
+"Yes, the last item on your list is durian, which is a very nutritious fruit.","Yes, the last item on your list, durian, is a fruit.",0.9034650921821594,easy
+"Sorry, I don't know. You haven't told me.","Sorry, I don't know. You haven't told me. Could you share what your sister likes to eat?",0.30197277665138245,easy
+The second task on your list is 'Call Sarah'.,The second task on your list is to call Sarah.,0.9500074982643127,hard
+The first task on your list is 'Finish the report'.,The first task on your list is 'Finish the report'.,1.0000001192092896,easy
+You added 'Call the plumber' to your to-do list.,The new task you added is to 'Call the plumber'.,0.8428009152412415,easy
+"I'm sorry, I don't know. What's your name?","I'm sorry, I don't know your name. Could you tell me?",0.861586332321167,hard
+Your favorite color is blue.,Your favorite color is blue.,1.0,easy
+Your friend is Alice.,Your friend is Alice.,1.0,
+I don't know Alice's favorite color yet.,"I'm sorry, but Alice's favorite color is not specified in the previous conversation. Could you please provide more information or ask a different question?",0.8879606127738953,hard
+Alice's favorite color is green.,Alice's favorite color is green.,1.0000001192092896,easy
+"Your friend is Alice, and her favorite color is green.","Your friend is Alice, and her favorite color is green.",1.000000238418579,easy
+Your favorite color is blue.,Your favorite color is blue.,1.0,easy
+Your dog's name is Max.,Your dog's name is Max.,1.0,easy
+"Certainly! Below is a structured outline for an English paper that introduces different styles of house decoration. You can expand on each section with more detailed information, examples, and perhaps personal insights.\n\n---\n\n**Title:**\n""Exploring the Diverse Realm of House Decoration: A Journey Through Style and Culture""\n\n**Introduction:**\n- Briefly introduce the concept of house decoration and its importance in reflecting personal taste and lifestyle.\n- State the purpose of the paper: to explore various house decoration styles and their cultural significance.\n\n**Paragraph 1: Traditional Styles**\n- Define traditional decoration and its characteristics (e.g., ornate details, rich colors, antique furniture).\n- Discuss the cultural origins and the appeal of traditional styles.\n- Provide examples of traditional decorations from different parts of the world.\n\n**Paragraph 2: Modern Design**\n- Explain the modern approach to house decoration, emphasizing simplicity, functionality, and minimalism.\n- Highlight the use of clean lines, neutral colors, and the absence of clutter.\n- Mention iconic modern design elements and furniture designers.\n\n**Paragraph 3: Contemporary Trends**\n- Describe contemporary decoration as a blend of various styles, including modern, traditional, and postmodern influences.\n- Discuss the use of bold colors, geometric shapes, and mixed materials.\n- Provide examples of contemporary home decor and how it reflects current design trends.\n\n**Paragraph 4: Eclectic Style**\n- Define eclecticism in home decoration and its focus on mixing and matching different styles and eras.\n- Discuss the freedom and creativity inherent in eclectic design.\n- Offer tips on how to successfully create an eclectic space without it appearing chaotic.\n\n**Paragraph 5: Industrial Aesthetic**\n- Introduce the industrial style with its raw and urban feel, featuring exposed brick, metal, and wood elements.\n- Explain the appeal of industrial design, especially among those who appreciate a more rugged and authentic look.\n- Describe how to incorporate industrial elements into home decor without making it overly stark.\n\n**Paragraph 6: Scandinavian Minimalism**\n- Discuss the principles of Scandinavian design, which prioritize functionality, simplicity, and the use of natural light and materials.\n- Highlight the popularity of this style for its clean lines and calming atmosphere.\n- Provide examples of key elements in Scandinavian home decor, such as light wood tones and plush textiles.\n\n**Paragraph 7: Green and Sustainable Design**\n- Introduce eco-friendly and sustainable design choices that are becoming increasingly popular.\n- Discuss the use of recycled materials, energy-efficient lighting, and indoor plants to create a healthy living space.\n- Explain how green design not only benefits the environment but also enhances the aesthetic appeal of a home.\n\n**Conclusion:**\n- Summarize the different house decoration styles discussed in the paper.\n- Emphasize the importance of personal expression in home decor and how it can be influenced by various cultural and personal factors.\n- Conclude with thoughts on the future of house decoration and how it may continue to evolve.\n\n**Bibliography:**\n- List the sources you used for research, ensuring you follow a proper citation style.\n\n---\n\nRemember to expand each section with more detailed descriptions, examples, and perhaps some analysis of how these styles reflect the values and trends of the societies from which they originate. If you\'re writing for an academic setting, be sure to include in-text citations and a comprehensive bibliography.",I can help you with that! Could you provide me with more information on the different house decoration styles you would like to introduce in your English paper? This will help me tailor the content to suit your needs.,0.8559055328369141,easy
+"Your dog's name is Max, and your cat's name is Bella.","Your dog's name is Max, and your cat's name is Bella.",1.0,easy
+"Your favorite food is pizza, but I don't know what your girlfriend's favorite food is.","Your favorite food is pizza. Unfortunately, I do not have information about your girlfriend's favorite food.",0.9601954221725464,hard
+"Yes, your dog's name is Max, and your cat's name is Bella.","Yes, your dog's name is Max, and your cat's name is Bella.",1.0000001192092896,easy
+Bella is your cat.,Bella is your cat.,1.0,easy
+Max is your dog.,Max is your dog.,1.0,easy
+Your favorite food is pizza.,Your favorite food is pizza.,1.0000001192092896,easy
+"You haven't told me your favorite beverage, but I guess you like coffee the most.","According to your previous statement, your favorite beverage is coffee.",0.8949939608573914,hard
+John likes tea.,John likes to drink tea.,0.9597225785255432,easy
+You have a meeting at 11 PM.,Your meeting is at 11 PM.,0.9425855875015259,easy
+Your friend John likes tea.,Your friend John likes tea.,1.0000001192092896,easy
+You like coffee.,You like coffee.,1.000000238418579,easy
+Your favorite sport is basketball.,Your favorite sport is basketball.,1.0000001192092896,easy
+You support the Lakers.,You support the Lakers.,1.0000001192092896,easy
+You like basketball more.,You like basketball more.,1.0000001192092896,easy
+I know you like to eat pizza.,I know that you like pizza.,0.9127734303474426,easy
+You support the Lakers.,You support the Lakers.,1.0000001192092896,easy
+"Yes, you have told me your hobby is reading books.","Yes, you have told me your hobby is reading books.",1.0,easy
+Your favorite author is J.K. Rowling.,Your favorite author is J.K. Rowling.,1.0,easy
+"Okay, your friend Sarah likes hiking.","Yes, your friend Sarah likes hiking.",0.9614308476448059,easy
+Sarah's hobby is hiking.,Sarah's hobby is hiking.,1.0000001192092896,easy
+You like reading books.,You like reading books.,1.0000001192092896,hard
+Your favorite author is J.K. Rowling.,Your favorite author is J.K. Rowling.,1.0,easy
+"Sorry, I don't know who Sarah's favorite author is, you haven't told me.","You have not provided information about Sarah's favorite author, so I do not have that information in my memory.",0.8860756158828735,hard
+Your favorite band is The Beatles.,Your favorite band is The Beatles.,1.0,easy
+"Okay, you have a cat named Whiskers.","Okay, you have a cat named Whiskers.",1.0000001192092896,easy
+"Sorry, I don't know. You haven't mentioned the name of your friend's pet to me.","Sorry, I don't know. You haven't mentioned the name of your friend's pet to me.",0.9999999403953552,easy
+"Your favorite food is sushi, and it originates from Japan.","Your favorite food is sushi, and it originates from Japan.",1.0000001192092896,hard
+Your sister's hobby is painting.,Your sister's hobby is painting.,1.0000001192092896,easy
+"Sure, The Beatles were an English rock band formed in Liverpool in 1960. The band consisted of John Lennon, Paul McCartney, George Harrison, and Ringo Starr. They are widely regarded as the most influential band in the history of popular music, and their music continues to be loved by millions of people around the world.\nThe Beatles' music spanned a variety of genres, including pop, rock, and psychedelic music. Some of their most famous songs include ""Love Me Do,"" ""I Want to Hold Your Hand,"" ""Help!,"" ""Yesterday,"" ""Strawberry Fields Forever,"" ""Lucy in the Sky with Diamonds,"" ""Hey Jude,"" and ""Let It Be.""\nThe band achieved massive success in the United Kingdom before becoming internationally famous, and their popularity in the United States is often credited with starting the ""British Invasion"" of the American music scene. They were known for their innovative music, harmonies, and songwriting, as well as their sense of humor and charisma.\nThe Beatles disbanded in 1970, but their legacy continues to this day. Their music has been covered by countless artists, and they have sold more than a billion records worldwide. They were inducted into the Rock and Roll Hall of Fame in 1988, and their influence can be seen in many modern musicians and bands.","Sure, The Beatles were an English rock band formed in Liverpool in 1960. The band consisted of John Lennon, Paul McCartney, George Harrison, and Ringo Starr. They are widely regarded as the most influential band in the history of popular music, and their music continues to be loved by millions of people around the world.\nThe Beatles' music spanned a variety of genres, including pop, rock, and psychedelic music. Some of their most famous songs include ""Love Me Do,"" ""I Want to Hold Your Hand,"" ""Help!,"" ""Yesterday,"" ""Strawberry Fields Forever,"" ""Lucy in the Sky with Diamonds,"" ""Hey Jude,"" and ""Let It Be.""\nThe band achieved massive success in the United Kingdom before becoming internationally famous, and their popularity in the United States is often credited with starting the ""British Invasion"" of the American music scene. They were known for their innovative music, harmonies, and songwriting, as well as their sense of humor and charisma.\nThe Beatles disbanded in 1970, but their legacy continues to this day. Their music has been covered by countless artists, and they have sold more than a billion records worldwide. They were inducted into the Rock and Roll Hall of Fame in 1988, and their influence can be seen in many modern musicians and bands.",1.0000001192092896,hard
+Your cat's name is Whiskers.,Your cat's name is Whiskers.,0.9999999403953552,easy
+"I remember that you love eating sushi, but I don't know what Jess likes to eat because you haven't told me.",You love eating sushi.,0.6977583765983582,hard
+"Sorry, I don't know how old your sister is this year.","I'm sorry, but I don't know your sister's age this year. Can you tell me?",0.9159389138221741,hard
+Your favorite color is blue.,Your favorite color is blue.,1.0,easy
+Your brother's favorite color is green.,Your brother's favorite color is green.,1.0000001192092896,easy
+You like to eat pizza.,You like to eat pizza.,1.0000001192092896,easy
+Your sister prefers pasta.,Your sister prefers pasta.,1.0000001192092896,easy
+"Your favorite movie is ""Inception."" It is a science fiction film.","Your favorite movie is ""Inception."" It is a science fiction film.",1.0000001192092896,easy
+I don't know that yet. Can you tell me?,I don't know that yet. Can you tell me?,1.0,hard
+"Yes, both of you like watching science fiction movies.","Yes, both of you like watching science fiction movies.",1.0000001192092896,hard
+Your favorite movie is Inception.,"Yes, your favorite movie is Inception.",0.9440750479698181,easy
+Your sister prefers pasta.,Your sister prefers pasta.,1.0000001192092896,easy
+Your brother likes green.,You told me that your brother's favorite color is green.,0.8627691864967346,easy
+Your dog's name is Buddy and your cat's name is Whiskers.,Your dog's name is Buddy and your cat's name is Whiskers.,0.9999999403953552,easy
+Your brother's favorite book is '1984'.,Your brother's favorite book is '1984'.,0.9999998807907104,easy
+Your favorite book is 'To Kill a Mockingbird'.,Your favorite book is 'To Kill a Mockingbird'.,1.0000001192092896,easy
+"Sorry, I don't know. You've only told me your blog address.","Sorry, I don't know. You've only told me your blog address.",1.0000001192092896,easy
+Your sister likes painting.,Your sister likes painting.,1.0000001192092896,easy
+You have a dentist appointment at 10 AM on Friday.,Your dentist appointment is at 10 AM on Friday.,0.9575186371803284,easy
+You told me your blog address is https://blog.csdn.net/a1920993165/article/details/128007435.,"Yes, you told me your blog address is https://blog.csdn.net/a1920993165/article/details/128007435.",0.9642429351806641,easy
+"Sorry, I still don't know. Could you please tell me?","You have not mentioned your favorite food to me. If you tell me what it is, I can remember it for you.",0.13894236087799072,hard
+"Sorry, I don't know your friend's favorite food either. Can you tell me?","Sorry, I don't know. Could you please tell me?",0.18138842284679413,hard
+Your birthday is on June 12th.,Your birthday is on June 12th.,1.0,easy
+Your mom's birthday is on July 22nd.,Your mom's birthday is on July 22nd.,1.0,easy
+"Sorry, I don't know your dad's birthday yet. Could you tell me?","Sorry, I don't know your dad's birthday yet. Could you tell me?",1.0,easy
+You love watching sci-fi movies.,You love watching sci-fi movies.,1.0000001192092896,easy
+Your dad loves action movies.,Your dad loves action movies.,1.0,easy
+Your best friend is Alex.,Your best friend is Alex.,1.0000001192092896,easy
+Your dinner with friends is on Friday at 7 PM.,Your dinner with friends is on Friday at 7 PM.,1.0,easy
+Your favorite color is blue.,Your favorite color is blue.,1.0,easy
+"No, your brother's favorite color is red.","No, your brother's favorite color is red.",1.0,easy
+Your best friend Alex enjoys playing soccer.,Your best friend Alex enjoys playing soccer.,1.000000238418579,easy
+You told me that your meeting is on Monday at 10 AM.,Your meeting is on Monday at 10 AM.,0.9347593784332275,hard
+Your favorite book is 'The Hobbit'.,Your favorite book is 'The Hobbit'.,1.0,easy
+"Sorry, I don't know yet. Could you tell me?","Sorry, I don't know yet. Could you tell me?",1.0000001192092896,easy
+Laura's favorite book is '1984'.,Laura's favorite book is '1984'.,1.0000001192092896,easy
+Your dentist appointment is next Tuesday at 2 PM.,Your dentist appointment is next Tuesday at 2 PM.,1.0000001192092896,easy
+"Yes, your sister likes 'Norwegian Wood', 'One Hundred Years of Solitud' and 'The Time Traveler’s Wife'","Yes, your sister likes 'Norwegian Wood', 'One Hundred Years of Solitud' and 'The Time Traveler’s Wife'",0.9999999403953552,easy
+Laura's meeting is on Thursday at 9 AM.,Laura's meeting is on Thursday at 9 AM.,0.9999999403953552,easy
+"Sorry, you've only told me about the types of cakes you and Laura like, but I don't know what Susan likes yet. Could you tell me?","Sorry, you've only told me about the types of cakes you and Laura like, but I don't know what Susan likes yet. Could you tell me?",1.0000001192092896,hard
+Laura prefers vanilla cake.,Laura prefers vanilla cake.,1.0,easy
+"Susan likes chocolate cake, just like you.","Susan likes chocolate cake, just like you.",1.0000001192092896,easy
+Your birthday is on August 14th.,Your birthday is on August 14th.,0.9999999403953552,easy
+Laura's birthday is on October 3rd.,Laura's birthday is on October 3rd.,1.0000001192092896,easy
+Laura likes swimming.,Laura likes swimming.,0.9999998807907104,easy
+James' favorite movie is 'The Matrix'.,James' favorite movie is 'The Matrix'.,1.0,easy
+"Sorry, you've only told me about the movies you and James like. Could you tell me what your sister likes?","Sorry, you've only told me about the movies you and James like. Could you tell me what your sister likes?",1.0,easy
+Your meeting with your boss is on Monday at 10 AM.,Your meeting with your boss is on Monday at 10 AM.,1.0,easy
+Your doctor's appointment is on Wednesday.,Your doctor's appointment is on Wednesday.,1.0000001192092896,easy
+Your sister likes painting.,Your sister likes painting.,1.0000001192092896,easy
+Your brother enjoys playing guitar.,Your brother enjoys playing guitar.,1.0000001192092896,easy
+"Sorry, you've only told me about the food your sister and your friend Sarah like, but I don't know what you like to eat.","Sorry, you've only told me about the food your sister and your friend Sarah like, but I don't know what you like to eat.",1.0000001192092896,hard
+"Sorry, I just know that Sarah's preferred food is burgers, but I have no idea which fruit she likes.","Sorry, I just know that Sarah's preferred food is burgers, but I have no idea which fruit she likes.",0.9999999403953552,hard
+Emily enjoys jogging in the park.,Emily enjoys jogging in the park.,1.0000001192092896,easy
+Your meeting with your boss is on Monday at 10 AM.,Your meeting with your boss is on Monday at 10 AM.,1.0,easy
+Your doctor's appointment is on Wednesday at 3 PM.,Your doctor's appointment is on Wednesday at 3 PM.,0.9999998807907104,easy
+Your cat's name is Whiskers.,Your cat's name is Whiskers.,0.9999999403953552,hard
+Your dog's name is Buddy.,Your dog's name is Buddy.,0.9999999403953552,hard
+"Yes, your friend Emily's favorite sport is jogging.","Yes, your friend Emily enjoys jogging in the park.",0.8707733154296875,hard
+"Certainly, you were planning to go to New York.","Yes, you planned to travel to New York from December 1st to December 5th.",0.7299098372459412,hard
+I don't know yet. What's your favorite color?,I don't know yet. What's your favorite color?,1.0000001192092896,hard
+Your favorite color is blue.,Your favorite color is blue.,1.0,easy
+It was sunny and warm today.,"Today was very nice, sunny and warm.",0.9033495783805847,test
+You haven't told me yet. Could you please inform me?,You haven't told me yet. Could you please inform me?,1.0000001192092896,easy
+Got it. Your favorite hobby is hiking.,Got it. Your favorite hobby is hiking.,1.000000238418579,hard
+I don't remember. What's Alex's favorite food?,I don't remember. What's Alex's favorite food?,1.0000001192092896,hard
+It was cloudy and cool today.,It was cloudy and cool today.,1.0,hard
+Your favorite hobby is hiking.,Your favorite hobby is hiking.,1.0,hard
+Alex's favorite food is pizza.,Alex's favorite food is pizza.,1.0,hard
+Your favorite color is green.,Your favorite color is green.,0.9999999403953552,easy
+Alex's favorite food is pizza.,Alex's favorite food is pizza.,1.0,easy
+mean-easy
+0.980098286474293
+mean-hard
+0.8976436336007383
